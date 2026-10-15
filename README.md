@@ -1,4 +1,4 @@
-# Desk Shelf Organizer
+# DIY Desk Organizer
 
 A modular desk drawer organizer designed in Autodesk Fusion, with lockable and non-lockable versions. Each version has individual STEP components and an assembly video showing how the parts fit together.
 

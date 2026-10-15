@@ -43,4 +43,6 @@ Download the components for the version you want. Open the STEP files in a CAD a
 
 ## License
 
-No license has been specified for this project.
+The CAD files, assembly videos, images, and documentation in this repository are available under the [MIT License](LICENSE).
+
+You may use, copy, modify, share, and sell copies, including commercially. When redistributing copies or substantial portions of the files, retain the copyright and license notice. The files are provided "as is", without warranty; see the license for the full terms.
